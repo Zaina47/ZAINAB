@@ -1,3 +1,7 @@
+'''
+yOU WILL EXPLAIN THIS CODE TO ME, LINE BY LINE ON FRIDAY-6/10/23
+'''
+
 print('Enter your academic details')
 print('\n')
 """An empty dictionary to hold the details of students"""
